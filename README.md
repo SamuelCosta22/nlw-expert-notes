@@ -1,4 +1,4 @@
-<h1 align="justify">ExpertNotes</h1>
+<h1 align="center">ExpertNotes</h1>
 <h3 align="justify">A project from NLW Expert - RocketSeat</h3>
 <h3 align="justify">Content of this project:</h3>
 <p align="justify">Development of a front-end application in ReactJS, application of Properties concepts, States and Components, typing with Typescript, tooling with Vite, responsive interface with TailwindCSS, use of Web APIs like Web Storage and Web Speech.</p>
