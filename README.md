@@ -13,7 +13,7 @@
 
 <h3>Images of this Project</h3>
 <div>
-  <img align="justify" alt="Coding" width="150" src="https://fv5-5.failiem.lv/thumb_show.php?i=zvnm946v2p&view&v=1&PHPSESSID=19afbb511f3ae0b4730f570da624f5e01f6e4c87">
-  <img align="justify" alt="Coding" width="150" src="https://files.fm/f/kxq8ans3n5">
-  <img align="justify" alt="Coding" width="150" src="https://files.fm/f/yfawhhqtsk">
+  <img align="justify" alt="Coding" width="500" src="https://fv5-5.failiem.lv/thumb_show.php?i=zvnm946v2p&view&v=1&PHPSESSID=19afbb511f3ae0b4730f570da624f5e01f6e4c87">
+  <img align="justify" alt="Coding" width="500" src="https://fv5-5.failiem.lv/thumb_show.php?i=kxq8ans3n5&view&v=1&PHPSESSID=19afbb511f3ae0b4730f570da624f5e01f6e4c87">
+  <img align="justify" alt="Coding" width="500" src="https://fv5-5.failiem.lv/thumb_show.php?i=yfawhhqtsk&view&v=1&PHPSESSID=19afbb511f3ae0b4730f570da624f5e01f6e4c87">
 </div>
