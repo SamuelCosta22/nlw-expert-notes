@@ -1,15 +1,14 @@
 <h1 align="center">Expert Notes</h1>
 
-<div style="display: inline_block">
+<div>
   <h3 align="justify">A project from NLW Expert - RocketSeat</h3>
-  <h3 align="justify">Content of this project:</h3>
-  <p align="justify">Development of a front-end application in ReactJS, application of Properties concepts, States and Components, typing with Typescript, tooling with Vite, responsive interface with TailwindCSS, use of Web APIs like Web Storage and Web Speech.</p>
+  <p align="justify"><strong>Content of this project: </strong>Development of a front-end application in ReactJS, application of Properties concepts, States and Components, typing with Typescript, tooling with Vite, responsive interface with TailwindCSS, use of Web APIs like Web Storage and Web Speech.</p>
 </div>
-    <div style="flex: 1; padding: 10px; width: 50%;">
-    <h3 align="justify">A project from NLW Expert - RocketSeat</h3>
-    <h3 align="justify">Content of this project:</h3>
-    <p align="justify">Development of a front-end application in ReactJS, application of Properties concepts, States and Components, typing with Typescript, tooling with Vite, responsive interface with TailwindCSS, use of Web APIs like Web Storage and Web Speech.</p>
-  </div>
+
+<div>
+  <h3 align="justify">Um projeto para o NLW Expert - RocketSeat</h3>
+    <p align="justify"><strong>Conteúdo deste projeto: </strong>Desenvolvimento de uma aplicação front-end em ReactJS, aplicação dos conceitos de Propriedades, Estados e Componentes, tipagem com Typescript, tooling com Vite, interface responsiva com TailwindCSS, uso de APIs da Web como Web Storage e Web Speech.</p>
+</div>
 
 <h3 align="left">Languages ​​used for this front-end project</h3>
 <div style="display: inline_block"><br>
