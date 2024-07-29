@@ -1,4 +1,5 @@
 <h1 align="center">Expert Notes</h1>
+<h2 align="center">Trail: React<img align="center" alt="ReactJS" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></h2>
 
 <div>
   <h3 align="justify">A project from NLW Expert - RocketSeat</h3>
